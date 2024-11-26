@@ -41,7 +41,7 @@ A sleek, modern, and interactive cybersecurity dashboard built with React, TypeS
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/belhedianwer/HackDash.git
+git clone https://github.com/belhedianwer/hackdash.git
 ```
 
 2. Navigate to the project directory:
@@ -117,4 +117,4 @@ Anwer Awled Belhedi
 - LinkedIn: [linkedin.com/in/aabyna](https://www.linkedin.com/in/aabyna)
 - GitHub: [github.com/aabyna](https://github.com/belhedianwer)
 
-Project Link: [https://github.com/aabyna/hackdash](https://github.com/belhedianwer/HackDash)
+Project Link: [https://github.com/aabyna/hackdash](https://github.com/belhedianwer/hackdash)
