@@ -115,6 +115,6 @@ Anwer Awled Belhedi
 
 - Website: [anwer-awled-belhedi.com](https://anwer-awled-belhedi.com)
 - LinkedIn: [linkedin.com/in/aabyna](https://www.linkedin.com/in/aabyna)
-- GitHub: [github.com/aabyna](https://github.com/belhedianwer)
+- GitHub: [github.com/belhedianwer](https://github.com/belhedianwer)
 
 Project Link: [https://github.com/aabyna/hackdash](https://github.com/belhedianwer/hackdash)
